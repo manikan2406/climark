@@ -8,7 +8,7 @@ setup(
     description="A CLI tool for generating and validating test cases using Ollama LLM",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/manikan2406/cli-markdown",
+    url="https://github.com/manikan2406/climark.git",
     packages=find_packages(),
     python_requires=">=3.7",
     install_requires=[
