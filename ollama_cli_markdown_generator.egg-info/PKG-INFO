@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: ollama-cli-markdown-generator
+Version: 1.0.0
+Summary: A CLI tool for generating and validating test cases using Ollama LLM
+Home-page: https://github.com/manikan2406/climark.git
+Author: manikan2406
+Author-email: manikandan.c@eminds.ai
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+# Ollama CLI
+
+A CLI tool for generating markdown document for Python projects using Ollama LLM.
+
+## Installation
+
+```bash
+pip install .

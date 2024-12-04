@@ -1,0 +1,9 @@
+langchain-core
+langchain-ollama
+pytest
+torch
+transformers
+markdown
+
+[dev]
+pytest

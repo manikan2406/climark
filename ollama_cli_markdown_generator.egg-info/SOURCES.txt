@@ -1,0 +1,9 @@
+README.md
+setup.py
+ollama_cli_markdown_generator.egg-info/PKG-INFO
+ollama_cli_markdown_generator.egg-info/SOURCES.txt
+ollama_cli_markdown_generator.egg-info/dependency_links.txt
+ollama_cli_markdown_generator.egg-info/entry_points.txt
+ollama_cli_markdown_generator.egg-info/not-zip-safe
+ollama_cli_markdown_generator.egg-info/requires.txt
+ollama_cli_markdown_generator.egg-info/top_level.txt
